@@ -11,7 +11,7 @@ numbers = {
     "9": "Nine",
 }
 
-text = input('Write your number: ')
+text = input('Type your number: ')
 
 finalText = ''
 for letter in text:
